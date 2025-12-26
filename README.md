@@ -196,7 +196,6 @@ Lifestyle habits such as alcohol intake may influence panic severity
 
 Project Structure
 Panic-Attack-PowerBI-Analysis/
-│
 ├── Panic_Attack_Analysis.pbix
 ├── README.md
 ├── dashboard_overview.png
