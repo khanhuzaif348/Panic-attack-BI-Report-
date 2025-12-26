@@ -34,7 +34,7 @@ Secure and centralized data access
 
  Dashboard Screenshots
 
-📁 Screenshots are stored in folder
+## Screenshots are stored in folder
 
  * No of symptums by patience
 
@@ -204,6 +204,7 @@ Panic-Attack-PowerBI-Analysis/
 ├── lifestyle_insights.png
 └── age_trigger_analysis.png
 
+# Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMjhiZTBkMTUtNDc3NC00MGU2LWI4MmYtMjIzYTUyNjcxYjExIiwidCI6ImYwYzJhZDgxLTcxNTUtNGMzYy04OTAyLTNiNDZhYmVlNzIyZSIsImMiOjZ9
 ## How to Use
 
 **Clone this repository**
